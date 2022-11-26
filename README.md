@@ -1,10 +1,10 @@
-### Hi there! I am Tanjimul.👋
+### Hey,I'm Tanjimul.👋
+I am passionate Front-end Developer. 
 
-- 🌱 I’m currently learning React
-- 📫 How to reach me: tanjimulislamsabbir02@gmail.com
-<!--
-**TanjimulSabbir/TanjimulSabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ReactJs
+- ☘️ I like to code C++, Javascript and Python.
+- 📫 Contact: tanjimulislamsabbir02@gmail.com
 
-Here are some ideas to get you started:
-
--->
+Skills
+HTML, CSS, Vanilla Javascript, ReactJS, React-Bootstrap, Re-Tailwind, Api.
+C++, Python.
