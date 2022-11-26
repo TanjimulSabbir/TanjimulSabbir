@@ -6,5 +6,6 @@ I am passionate Front-end Developer.
 - 📫 Contact: tanjimulislamsabbir02@gmail.com
 
 Skills
-HTML, CSS, Vanilla Javascript, ReactJS, React-Bootstrap, Re-Tailwind, Api.
+HTML, CSS, Vanilla Javascript, ReactJS, React-Bootstrap,
+React-Tailwind, Api.
 C++, Python.
