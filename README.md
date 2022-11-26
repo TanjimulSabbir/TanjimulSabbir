@@ -3,9 +3,9 @@ I am passionate Front-end Developer.
 
 - 🌱 I’m currently learning ReactJs
 - ☘️ I like to code C++, Javascript and Python.
-- 📫 Contact: tanjimulislamsabbir02@gmail.com
+- 📫 Contact with me: tanjimulislamsabbir02@gmail.com
 
-Skills
+<h1>Skills<\h1>
 HTML, CSS, Vanilla Javascript, ReactJS, React-Bootstrap,
 React-Tailwind, Api.
 C++, Python.
