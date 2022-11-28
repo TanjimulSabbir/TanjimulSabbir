@@ -5,7 +5,7 @@ I am a passionate Web Developer.
 - ☘️ I like to code C++, Javascript and Python.
 - 📫 Contact with me: tanjimulislamsabbir02@gmail.com
 
-- 📌 Skills
+- Skills: 
 HTML, CSS, Javascript, ReactJS, React-Bootstrap,
 React-Tailwind, git and github, Redux.
 C++, Python.
