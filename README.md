@@ -1,5 +1,5 @@
 ### Hey, I'm Tanjimul.👋
-I am passionate Front-end Developer. 
+I am a passionate Web Developer. 
 
 - 🌱 I’m currently learning ReactJs & NodeJS
 - ☘️ I like to code C++, Javascript and Python.
@@ -7,5 +7,5 @@ I am passionate Front-end Developer.
 
 - 📌 Skills
 HTML, CSS, Javascript, ReactJS, React-Bootstrap,
-React-Tailwind, Redux.
+React-Tailwind, git and github, Redux.
 C++, Python.
