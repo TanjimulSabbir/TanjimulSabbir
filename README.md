@@ -7,5 +7,5 @@ I am a passionate Web Developer.
 
 - Skills: 
 HTML, CSS, Javascript, ReactJS, React-Bootstrap,
-React-Tailwind, git and github, Redux.
+React-Tailwind, git and github, Redux,
 C++, Python.
