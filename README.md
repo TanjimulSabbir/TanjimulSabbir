@@ -2,7 +2,7 @@
 I am a passionate self-learned Web Developer. 
 
 - 🌱 I’m currently learning NodeJS & ExpressJS
-- ☘️ I like to code C++, Javascript and Python.
+- ☘️ I like to code Javascript and Python.
 - 📧 Contact with me: tanjimulislamsabbir02@gmail.com
 
 - Skills: 
