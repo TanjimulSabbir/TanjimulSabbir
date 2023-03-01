@@ -7,5 +7,5 @@ I am a passionate self-learned Web Developer.
 
 - Skills: 
 HTML, CSS, Javascript, ReactJS, React-Bootstrap,
-React-Tailwind, MongoDb, Firebase, Stripe, git and github, Redux,
+React-Tailwind, MongoDb, Firebase, Stripe, git and github,
 C++, Python.
