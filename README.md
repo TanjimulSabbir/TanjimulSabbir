@@ -1,11 +1,10 @@
-### Hey, I'm Tanjimul.👋
+## Hey, I'm Tanjimul.👋
 I am a passionate self-learned Web Developer. 
 
-- 🌱 I’m currently learning NodeJS & ExpressJS
-- ☘️ I like to code Javascript and Python.
+- 🌱 I’m currently learning NodeJS & NoSQL Database
+- ☘️ I like to code on Javascript and Python.
 - 📧 Contact with me: tanjimulislamsabbir02@gmail.com
 
-- Skills: 
-HTML, CSS, Javascript, ReactJS, React-Bootstrap,
-React-Tailwind, MongoDb, Firebase, Stripe, git and github,
-C++, Python.
+### Skills: 
+HTML, CSS, Javascript, ReactJS, Bootstrap,
+Tailwind, NodeJs, ExpressJs, MongoDb, git and github, Python.
