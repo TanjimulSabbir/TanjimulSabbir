@@ -1,4 +1,4 @@
-                                                            ## Hi, I'm Tanjimul.
+## <center> Hi, I'm Tanjimul.</center>
 
 ### About Me
 
