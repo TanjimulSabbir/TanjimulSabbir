@@ -8,14 +8,4 @@
 - Contact with me: tanjimulislamsabbir02@gmail.com
 
 ### Skills 
-- HTML 
-- CSS 
-- Javascript
-- ReactJS 
-- Bootstrap
-- Tailwind 
-- NodeJs 
-- ExpressJs 
-- MongoDB 
-- Git and Github 
-- Python
+**HTML**, **CSS**, **Javascript**, **ReactJS**, **Bootstrap**, **Tailwind**, **NodeJS**, **ExpressJS**, **MongoDB**, **Git and Github**, **Python**
