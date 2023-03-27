@@ -1,9 +1,11 @@
-## Hey, I'm Tanjimul.👋
-#### I am a passionate self-learned Web Developer. 
+                                                            ## Hi, I'm Tanjimul.
 
+### About Me
+
+- I am a passionate self-learned Web Developer. 
 - 🌱 I’m currently learning NodeJS
 - ☘️ I like to code on Javascript and Python.
-- 📧 Contact with me: tanjimulislamsabbir02@gmail.com
+- Contact with me: tanjimulislamsabbir02@gmail.com
 
 ### Skills 
 - HTML 
