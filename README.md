@@ -1,4 +1,4 @@
-## <center> Hi, I'm Tanjimul.</center>
+<h2 align="center"> Hi, I'm Tanjimul.</h2>
 
 ### About Me
 
