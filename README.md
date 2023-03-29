@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Tanjimul</h1>
 
-### About Me
 
 - I am a passionate self-learned Web Developer. 
 - 🌱 I’m currently learning NodeJS
