@@ -5,4 +5,4 @@
 - I am a passionate self-learned Web Developer. 
 - I’m currently learning NodeJS and SQL.
 - I like to code on Javascript and Python.
-- Contact: tanjimulislamsabbir02@gmail.com
+- Contact: tanjimulsabbir.dev@gmail.com
