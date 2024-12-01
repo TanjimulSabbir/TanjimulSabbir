@@ -39,7 +39,7 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
     <a href="https://www.facebook.com/tanjimulsabbir.devel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
