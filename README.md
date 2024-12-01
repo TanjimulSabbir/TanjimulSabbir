@@ -1,5 +1,5 @@
 # **Tanjimul Islam Sabbir**  
-### 🚀 Front-End Developer | Aspiring Software Engineer  
+### 🚀Junior Software Developer | Aspiring Software Engineer  
 
 ---
 
@@ -32,11 +32,14 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 
 ### **💬 Let’s Connect**  
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/TanjimulSabbir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/your-github/" target="_blank">
+  <a href="https://github.com/TanjimulSabbir/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+    <a href="https://www.facebook.com/tanjimulsabbir.devel" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
