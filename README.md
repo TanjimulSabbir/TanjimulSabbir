@@ -23,7 +23,9 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 - 🔭 Working on **LeetCode problem-solving** to master DSA.  
 - 🌱 Improving my **algorithmic thinking** for competitive coding.  
 - 🎯 Aiming to grow into a **mid-level developer** and prepare for interviews.  
-- 🧑‍🏫 Teaching and sharing knowledge with aspiring programmers.  
+- 🧑‍🏫 Teaching and sharing knowledge with aspiring programmers.
+- 📫 Please contact me via tanjimulsabbir.dev@gmail.com
+  
 ****
 
 ### **💬 Let’s Connect**  
