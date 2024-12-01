@@ -31,6 +31,6 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 ---
 
 ### **💬 Let’s Connect**  
-[![[LinkedIn](https://www.linkedin.com/in/tanjimulsabbir/)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![[GitHub](https://github.com/TanjimulSabbir)](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/your-github/)  
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:tanjimulsabbir.dev@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+[GitHub](https://github.com/your-github/)  
+[Gmail](mailto:tanjimulsabbir.dev@gmail.com)
