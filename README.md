@@ -43,8 +43,8 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 </div>
 
 ****
-
-### Tanjimul Islam Sabbir's GitHub Stats
+<div align="center">
+### GitHub Stats
 
 ![Tanjimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjimulsabbir&show_icons=true&theme=radical)
 
@@ -52,4 +52,4 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 
 ![Tanjimul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimulsabbir&layout=compact&theme=radical)
 
-
+</div>
