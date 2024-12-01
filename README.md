@@ -16,7 +16,7 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 ---
 
 ### **🛠️ My Skills**  
-- **Languages**: JavaScript (Intermediate),TypeScript Python (Learning)  
+- **Languages**: JavaScript (Intermediate),TypeScript, Python (Learning)  
 - **Frameworks & Libraries**: React, Redux Toolkit, TailwindCSS, Ant Design, Material UI, React Hook form, Zod
 - **Tools**: Git, VS Code, Linux 
 
