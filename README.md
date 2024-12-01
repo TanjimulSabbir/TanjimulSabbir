@@ -43,13 +43,15 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 </div>
 
 ****
-<div align="center">
-### GitHub Stats
-
-![Tanjimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjimulsabbir&show_icons=true&theme=radical)
-
-### Most Used Languages
-
-![Tanjimul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimulsabbir&layout=compact&theme=radical)
-
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; text-align: center;">
+  <div style="flex: 1;">
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=tanjimulsabbir&show_icons=true&theme=radical" />
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimulsabbir&layout=compact&theme=radical" />
+  </div>
 </div>
+
