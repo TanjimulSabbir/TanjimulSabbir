@@ -39,7 +39,7 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
     <a href="https://www.facebook.com/tanjimulsabbir.devel" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:tanjimulsabbir.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
