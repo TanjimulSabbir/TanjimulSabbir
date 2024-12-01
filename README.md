@@ -41,4 +41,13 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+****
+### Tanjimul Islam Sabbir's GitHub Stats
+
+![Tanjimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjimulsabbir&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Tanjimul's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimulsabbir&layout=compact&theme=radical)
+
 
