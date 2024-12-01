@@ -1,4 +1,4 @@
-# **Tanjimul Islam Sabbir**  
+<h1 align="center">Tanjimul Islam Sabbir</h1>
 ### 🚀Junior Software Developer | Aspiring Software Engineer  
 
 ---
