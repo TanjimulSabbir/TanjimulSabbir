@@ -5,7 +5,7 @@
 ## **Hello, World! 👋**  
 _"Code is like humor. When you have to explain it, it’s bad."_  
 — Cory House  
-** **
+* *
 Hi, I’m Tanjimul Islam Sabbir, a passionate Front-End Developer who loves creating intuitive, responsive web applications that deliver great user experiences. I enjoy solving problems, simplifying complexity, and bringing ideas to life through clean and efficient code.
 
 Right now, I’m focused on improving my skills in Data Structures, Algorithms, and React Native, as I work towards building high-performance, scalable applications. I’ve been sharpening my problem-solving abilities on platforms like LeetCode and constantly challenging myself to learn and grow as a developer.
