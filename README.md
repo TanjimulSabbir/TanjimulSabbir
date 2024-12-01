@@ -12,18 +12,19 @@ Right now, I’m focused on improving my skills in Data Structures, Algorithms, 
 
 I’m driven by a desire to contribute to meaningful projects and collaborate with talented teams at innovative tech companies. If you’re looking for someone with a strong work ethic, a growth mindset, and a genuine love for coding, I’d love to connect! 
 
+****
 
 ### **🛠️ My Skills**  
 - **Languages**: JavaScript (Intermediate),TypeScript, Python (Learning)  
 - **Frameworks & Libraries**: React, Redux Toolkit, TailwindCSS, Ant Design, Material UI, React Hook form, Zod
 - **Tools**: Git, VS Code, Linux 
-
+****
 ### **📌 Current Focus**  
 - 🔭 Working on **LeetCode problem-solving** to master DSA.  
 - 🌱 Improving my **algorithmic thinking** for competitive coding.  
 - 🎯 Aiming to grow into a **mid-level developer** and prepare for interviews.  
 - 🧑‍🏫 Teaching and sharing knowledge with aspiring programmers.  
-
+****
 
 ### **💬 Let’s Connect**  
 <div align="center">
