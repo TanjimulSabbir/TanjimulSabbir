@@ -12,13 +12,6 @@ Right now, I’m focused on improving my skills in Data Structures, Algorithms, 
 
 I’m driven by a desire to contribute to meaningful projects and collaborate with talented teams at innovative tech companies. If you’re looking for someone with a strong work ethic, a growth mindset, and a genuine love for coding, I’d love to connect! 
 
-# What is Life?
-
-<details>
-  <summary>Click to reveal the mystery of life</summary>
-  
-  ![Life](https://i.ibb.co/fCCQ4Zr/life-purpose-null.png)
-</details>
 ****
 
 ### **🛠️ My Skills**  
