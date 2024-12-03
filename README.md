@@ -57,4 +57,5 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
   </div>
 </div>
 
-(https://i.ibb.co.com/744Bzq0/life-purpose.png)
+
+[](https://i.ibb.co.com/744Bzq0/life-purpose.png)
