@@ -45,7 +45,7 @@ I’m driven by a desire to contribute to meaningful projects and collaborate wi
 </div>
 
 ****
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=tanjimulsabbir&show_icons=true&theme=radical" />
