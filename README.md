@@ -1,19 +1,19 @@
-<h1 align="center">🚀 Tanjimul Islam Sabbir 🚀</h1>
+<h1 align="center">🍀 Tanjimul Islam Sabbir 😺 </h1>
 <h3 align="center">Junior Software Developer | Aspiring Software Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&width=550&lines=Crafting+Code+with+Passion!;Software+Developer;Aspiring+Software+Engineer;Problem+Solver+%7C+Naturalist" />
 </p>
 
----
 ##  Hello, World! 👋 
 
 
 > **_"Code is like humor. When you have to explain it, it’s bad."_**  
-> — Cory House  
+> — Cory House    
 
 
 I’m **Tanjimul Islam Sabbir**, a passionate **Front-End Software Developer** dedicated to crafting elegant, high-performance web applications. My goal is to **simplify complexity** and deliver smooth, intuitive user experiences through clean and efficient code.  
+
 
 ##  Currently Growing up: 
 🚀 Data Structures & Algorithms  
@@ -55,7 +55,7 @@ I thrive on learning, building, and collaborating with amazing people in the tec
 📱 Exploring React Native for mobile development  
 🤝 Open to exciting projects & collaborations!   
 
-## 🌿 Beyond Code 
+## 🌿 Beyond Code  
 🎯 **Gardening** – Growing plants keeps me grounded 🌱  
 📸 **Photography** – Capturing the beauty of nature 🌄  
 📖 **Reading** – Exploring human evolution, history, and philosophy 📚  
@@ -85,7 +85,7 @@ I thrive on learning, building, and collaborating with amazing people in the tec
   <img src="https://github-profile-trophy.vercel.app/?username=TanjimulSabbir&theme=radical&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TanjimulSabbir/" target="_blank">
