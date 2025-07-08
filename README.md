@@ -2,7 +2,7 @@
 <h3 align="center">Front End Software Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&width=550&lines=Crafting+Code+with+Passion!;Software+Developer;Aspiring+Software+Engineer;Problem+Solver+%7C+Naturalist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&width=600&lines=Turning+Ideas+into+Interactive+Experiences!;Front-End+Engineer+%7C+Clean+Code+Advocate;JavaScript+%7C+React+%7C+Next.js;Crafting+Code+with+Passion!+%7C+Curious+Mind+%7C+Naturalist" />
 </p>
 
 ##  Hello, World! 👋 
