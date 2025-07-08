@@ -1,5 +1,5 @@
 <h1 align="center">🍀 Tanjimul Islam Sabbir 😺 </h1>
-<h3 align="center">Junior Software Developer | Aspiring Software Engineer </h3>
+<h3 align="center">Front End Software Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&width=550&lines=Crafting+Code+with+Passion!;Software+Developer;Aspiring+Software+Engineer;Problem+Solver+%7C+Naturalist" />
