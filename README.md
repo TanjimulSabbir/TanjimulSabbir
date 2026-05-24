@@ -35,7 +35,8 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 ---
 
 ## Tech Stack & Tools
-
+<div align="center">
+  
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -68,6 +69,7 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
