@@ -1,5 +1,5 @@
 <h1 align="center">🍀 Tanjimul Islam Sabbir 😺 </h1>
-<h3 align="center">Front End Software Engineer </h3>
+<h3 align="center">Software Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&width=600&lines=Turning+Ideas+into+Interactive+Experiences!;Front-End+Engineer+%7C+Clean+Code+Advocate;JavaScript+%7C+React+%7C+Next.js;Crafting+Code+with+Passion+%7C+Naturalist" />
@@ -12,7 +12,7 @@
 > — Cory House    
 
 
-I’m **Tanjimul Islam Sabbir**, a passionate **Front-End Software Developer** dedicated to crafting elegant, high-performance web applications. My goal is to **simplify complexity** and deliver smooth, intuitive user experiences through clean and efficient code.  
+I’m **Tanjimul Islam Sabbir**, a passionate **Software Engineer** dedicated to crafting elegant, high-performance web applications. My goal is to **simplify complexity** and deliver smooth, intuitive user experiences through clean and efficient code.  
 
 
 ##  Currently Growing up: 
@@ -33,20 +33,35 @@ I thrive on learning, building, and collaborating with amazing people in the tec
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zod-FF4500?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ##  What I'm Up To  
