@@ -1,11 +1,26 @@
-<h1 align="center">🍀 Tanjimul Islam Sabbir 😺 </h1>
-<h3 align="center">Software Engineer </h3>
+<h1 align="center">
+  🚀 Tanjimul Islam Sabbir
+</h1>
+
+<h3 align="center">
+  Full-Stack Software Engineer • Building Scalable Web Applications
+</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+Web+Applications;Performance+Focused+%7C+Problem+Solver;Learning+Every+Day+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+Scalable+and+High-Performance+Applications;Clean+Code+%E2%80%A2+System+Design+%E2%80%A2+Problem+Solving;Transforming+Ideas+Into+Digital+Products;Always+Learning+and+Shipping+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanjimulSabbir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/TanjimulSabbir?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/TanjimulSabbir?affiliations=OWNER&style=for-the-badge" />
+</p>
+
+<p align="center">
+  💻 Full-Stack Development &nbsp;•&nbsp;
+  ⚡ Performance Optimization &nbsp;•&nbsp;
+  🏗️ Scalable Architecture &nbsp;•&nbsp;
+  🌱 Continuous Learning
 </p>
 ##  Hello, World! 👋 
 
