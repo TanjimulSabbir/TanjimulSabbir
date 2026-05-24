@@ -77,15 +77,72 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 
 ## Beyond Code
 
-- **Gardening** — Nurturing plants keeps me grounded and patient.
-- **Photography** — Capturing the fleeting beauty of nature and landscapes.
-- **Thinking** — Deep diving into human evolution, history, and philosophy.
-- **Ethical Hacking** — Exploring cybersecurity concepts as a hobbyist.
-- **Philosophy & Perspective** — Exploring nuanced viewpoints on life, existence, and purpose, balancing between religious and agnostic insights.
+<table style="width:100%; border-collapse:collapse;">
 
-> *"Life has no ultimate goal — we might just be part of someone's grand tactical mission. But we don't truly know. What we do know is that kindness, humanity, and love are the foundations of a meaningful life. Perhaps after death, we may gain more power."*
+  <tr>
+    <td style="width:25%;"><b>🌱 Gardening</b></td>
+    <td>Nurturing plants keeps me grounded and patient.</td>
+  </tr>
 
----
+  <tr>
+    <td><b>📸 Photography</b></td>
+    <td>Capturing the fleeting beauty of nature and landscapes.</td>
+  </tr>
+
+  <tr>
+    <td><b>🧠 Thinking</b></td>
+    <td>Deep diving into Human Evolution, Mythology, History, and Philosophy.</td>
+  </tr>
+
+  <tr>
+    <td><b>🕵️ Ethical Hacking</b></td>
+    <td>Exploring cybersecurity concepts as a hobbyist.</td>
+  </tr>
+
+</table>
+
+<br/>
+
+<table style="width:100%; border-collapse:collapse;">
+
+  <tr>
+    <td style="width:25%;"><b>Perspective</b></td>
+    <td>
+      I don’t anchor myself to fixed labels. My worldview moves between atheistic and agnostic perspectives, shaped by uncertainty, observation, and continuous questioning.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Life</b></td>
+    <td>
+      I see life as complex, often unpredictable, and not inherently fair. Meaning is not predefined — it is constructed through experience, reflection, and action.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Belief</b></td>
+    <td>
+      I treat belief as fluid rather than absolute. It evolves with evidence, experience, and the limits of what can be known.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Thinking Style</b></td>
+    <td>
+      I prefer systems thinking over assumptions — breaking down complexity into simple rules and understanding how systems emerge.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Principle</b></td>
+    <td>
+      Clarity over certainty. Depth over noise. Understanding over assumption.
+    </td>
+  </tr>
+
+</table>
+
+> *“Life has no ultimate goal — we might be part of something larger and unseen. What matters is how we act within uncertainty: through kindness, awareness, and responsibility.”*
 
 ## GitHub Analytics
 
@@ -101,7 +158,13 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 
 **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjimulSabbir&theme=radical&hide_border=false&background=0D1117" alt="GitHub Streak" />
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimulsabbir&theme=radical&hide_border=false&background=0D1117"
+    width="100%"
+    alt="GitHub Streak"
+  />
+</p>
 
 <br /><br />
 
@@ -117,7 +180,7 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 
 <div align="left">
 
-<table>
+<table align="center">
   <tr>
     <td align="left" width="140">
       <a href="https://www.linkedin.com/in/TanjimulSabbir/" target="_blank">
@@ -150,7 +213,7 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 </div>
 <br /><br />
 
-<div align="left">
+<div align="center">
 
 **Thanks for dropping by!**
 
