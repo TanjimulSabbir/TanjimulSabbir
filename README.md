@@ -2,7 +2,10 @@
 <h3 align="center">Software Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&width=600&lines=Turning+Ideas+into+Interactive+Experiences!;Front-End+Engineer+%7C+Clean+Code+Advocate;JavaScript+%7C+React+%7C+Next.js;Crafting+Code+with+Passion+%7C+Naturalist" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00E5FF&center=true&vCenter=true&width=1000&lines=Frontend+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Designing+Fast%2C+Accessible+%26+Scalable+Products;Transforming+Complex+Problems+into+Elegant+Solutions;Passionate+About+Technology+and+Continuous+Growth"
+    alt="Typing SVG"
+  />
 </p>
 
 ##  Hello, World! 👋 
