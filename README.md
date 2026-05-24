@@ -80,23 +80,31 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 <table style="width:100%; border-collapse:collapse;">
 
   <tr>
-    <td style="width:25%;"><b>🌱 Gardening</b></td>
-    <td>Nurturing plants keeps me grounded and patient.</td>
+    <td style="min-width:20%;"><b>Nature Exploration</b></td>
+    <td>
+      I spend my free time studying physics, philosophy, sociology, human evolution, mythology, religion, and technical documentation — trying to understand how systems (nature, human) evolve and interact.
+    </td>
   </tr>
 
   <tr>
-    <td><b>📸 Photography</b></td>
-    <td>Capturing the fleeting beauty of nature and landscapes.</td>
+    <td><b>Nature Photography</b></td>
+    <td>
+      I explore natural environments through photography — capturing ponds, trees, grass, birds, skies, and sometimes forest ecosystems, focusing on small details that are often overlooked.
+    </td>
   </tr>
 
   <tr>
-    <td><b>🧠 Thinking</b></td>
-    <td>Deep diving into Human Evolution, Mythology, History, and Philosophy.</td>
+    <td><b>Systems Thinking</b></td>
+    <td>
+      I observe patterns in both nature and human systems, connecting ideas across disciplines like science, history, and behavior to understand complexity at a deeper level.
+    </td>
   </tr>
 
   <tr>
-    <td><b>🕵️ Ethical Hacking</b></td>
-    <td>Exploring cybersecurity concepts as a hobbyist.</td>
+    <td><b>Ethical Hacking</b></td>
+    <td>
+      A curiosity-driven exploration of how systems fail and how security boundaries behave under real-world conditions.
+    </td>
   </tr>
 
 </table>
