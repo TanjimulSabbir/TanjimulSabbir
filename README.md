@@ -18,7 +18,7 @@
   <b>Full-Stack Development</b> &nbsp;·&nbsp;
   <b>Performance Optimization</b> &nbsp;·&nbsp;
   <b>Scalable Architecture</b> &nbsp;·&nbsp;
-  <b>Continuous Learning</b>
+  <b>Product Engineering Mindset</b>
 </p>
 
 </div>
