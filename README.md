@@ -156,12 +156,8 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 
 <div align="left">
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TanjimulSabbir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanjimulSabbir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
-</p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjimulsabbir&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanjimulsabbir&theme=radical" />
 <br />
 
 **Contribution Streak**
