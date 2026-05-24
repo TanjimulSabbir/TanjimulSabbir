@@ -3,11 +3,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Tanjimul+Islam+Sabbir+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Performance+%E2%80%A2+User+Experience;Always+Learning%2C+Always+Building+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+Web+Applications;Performance+Focused+%7C+Problem+Solver;Learning+Every+Day+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
-
 ##  Hello, World! 👋 
 
 
