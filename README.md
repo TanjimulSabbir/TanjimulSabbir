@@ -36,8 +36,6 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 
 ## Tech Stack & Tools
 
-<div align="left">
-
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -71,151 +69,94 @@ I'm **Tanjimul Islam Sabbir**, a passionate **Full-Stack Software Engineer** ded
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
 ## Beyond Code
 
-<table style="width:100%; border-collapse:collapse;">
+**Nature Exploration**
+I spend my free time studying physics, philosophy, sociology, human evolution, mythology, religion, and technical documentation — trying to understand how systems (nature, human) evolve and interact.
 
-  <tr>
-    <td style="min-width:20%;"><b>Nature Exploration</b></td>
-    <td>
-      I spend my free time studying physics, philosophy, sociology, human evolution, mythology, religion, and technical documentation — trying to understand how systems (nature, human) evolve and interact.
-    </td>
-  </tr>
+**Nature Photography**
+I explore natural environments through photography — capturing ponds, trees, grass, birds, skies, and sometimes forest ecosystems, focusing on small details that are often overlooked.
 
-  <tr>
-    <td><b>Nature Photography</b></td>
-    <td>
-      I explore natural environments through photography — capturing ponds, trees, grass, birds, skies, and sometimes forest ecosystems, focusing on small details that are often overlooked.
-    </td>
-  </tr>
+**Systems Thinking**
+I observe patterns in both nature and human systems, connecting ideas across disciplines like science, history, and behavior to understand complexity at a deeper level.
 
-  <tr>
-    <td><b>Systems Thinking</b></td>
-    <td>
-      I observe patterns in both nature and human systems, connecting ideas across disciplines like science, history, and behavior to understand complexity at a deeper level.
-    </td>
-  </tr>
+**Ethical Hacking**
+A curiosity-driven exploration of how systems fail and how security boundaries behave under real-world conditions.
 
-  <tr>
-    <td><b>Ethical Hacking</b></td>
-    <td>
-      A curiosity-driven exploration of how systems fail and how security boundaries behave under real-world conditions.
-    </td>
-  </tr>
+---
 
-</table>
+**Perspective**
+I don't anchor myself to fixed labels. My worldview moves between atheistic and agnostic perspectives, shaped by uncertainty, observation, and continuous questioning.
 
-<br/>
+**Life**
+I see life as complex, often unpredictable, and not inherently fair. Meaning is not predefined — it is constructed through experience, reflection, and action.
 
-<table style="width:100%; border-collapse:collapse;">
+**Belief**
+I treat belief as fluid rather than absolute. It evolves with evidence, experience, and the limits of what can be known.
 
-  <tr>
-    <td style="width:25%;"><b>Perspective</b></td>
-    <td>
-      I don’t anchor myself to fixed labels. My worldview moves between atheistic and agnostic perspectives, shaped by uncertainty, observation, and continuous questioning.
-    </td>
-  </tr>
+**Thinking Style**
+I prefer systems thinking over assumptions — breaking down complexity into simple rules and understanding how systems emerge.
 
-  <tr>
-    <td><b>Life</b></td>
-    <td>
-      I see life as complex, often unpredictable, and not inherently fair. Meaning is not predefined — it is constructed through experience, reflection, and action.
-    </td>
-  </tr>
+**Principle**
+Clarity over certainty. Depth over noise. Understanding over assumption.
 
-  <tr>
-    <td><b>Belief</b></td>
-    <td>
-      I treat belief as fluid rather than absolute. It evolves with evidence, experience, and the limits of what can be known.
-    </td>
-  </tr>
+> *"Life has no ultimate goal — we might be part of something larger and unseen. What matters is how we act within uncertainty: through kindness, awareness, and responsibility."*
 
-  <tr>
-    <td><b>Thinking Style</b></td>
-    <td>
-      I prefer systems thinking over assumptions — breaking down complexity into simple rules and understanding how systems emerge.
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Principle</b></td>
-    <td>
-      Clarity over certainty. Depth over noise. Understanding over assumption.
-    </td>
-  </tr>
-
-</table>
-
-> *“Life has no ultimate goal — we might be part of something larger and unseen. What matters is how we act within uncertainty: through kindness, awareness, and responsibility.”*
+---
 
 ## GitHub Analytics
 
-<div align="left">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanjimulSabbir&theme=radical" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanjimulSabbir&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanjimulsabbir&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanjimulsabbir&theme=radical" />
 <br />
 
 **Contribution Streak**
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimulsabbir&theme=radical&hide_border=false&background=0D1117"
-    width="100%"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjimulSabbir&theme=radical&hide_border=false" width="100%" alt="GitHub Streak" />
 
-<br /><br />
+<br />
 
 **Achievements**
 
-<img src="https://github-profile-trophy.vercel.app/?username=TanjimulSabbir&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=TanjimulSabbir&theme=radical&margin-w=10&margin-h=10&no-bg=true&column=4" alt="GitHub Trophies" />
 
 ---
 
 ## Let's Connect
 
-<div align="left">
-
-<table align="center">
-  <tr>
-    <td align="left" width="140">
-      <a href="https://www.linkedin.com/in/TanjimulSabbir/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="left" width="140">
-      <a href="https://github.com/TanjimulSabbir/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td align="left" width="140">
-      <a href="https://www.facebook.com/tanjimulsabbir.devel" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-      </a>
-    </td>
-    <td align="left" width="140">
-      <a href="mailto:tanjimulsabbir.dev@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
+<p>
+  <a href="https://www.linkedin.com/in/TanjimulSabbir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TanjimulSabbir/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/tanjimulsabbir.devel" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="mailto:tanjimulsabbir.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 > Open to collaborations, freelance projects, and meaningful conversations.
 > **Reach out — let's build something together.**
 
-</div>
-<br /><br />
+---
 
 <div align="center">
 
